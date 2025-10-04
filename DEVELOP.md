@@ -6,11 +6,11 @@
 2. Navegue até o diretório onde deseja clonar o repositório.
 3. Execute o seguinte comando para clonar o repositório:
 ```sh
-git clone https://github.com/hqnicolas/n3backend.git
+git clone https://github.com/hqnicolas/AjudaJaServer.git
 ```
 ## 2. Navegue até o repositório clonado:
 ```sh
-cd n3backend
+cd AjudaJaServer
 ```
 
 ## 3. Construa o Projeto
@@ -61,11 +61,11 @@ psql --version
 2. Navegue até o diretório onde deseja clonar o repositório.
 3. Execute o seguinte comando para clonar o repositório:
 ```sh
-git clone https://github.com/hqnicolas/n3backend.git
+git clone https://github.com/hqnicolas/AjudaJaServer.git
 ```
 4. Navegue até o repositório clonado:
 ```sh
-cd n3backend
+cd AjudaJaServer
 ```
 
 ## 3. Construindo o Projeto

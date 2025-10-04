@@ -57,7 +57,7 @@ resources:
     parentId: null
     modified: 1732842188243
     created: 1732789745465
-    name: N3BackendLocal
+    name: AjudaJaServerLocal
     description: ""
     scope: collection
     _type: workspace

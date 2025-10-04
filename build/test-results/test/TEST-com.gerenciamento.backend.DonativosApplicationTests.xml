@@ -121,7 +121,7 @@ Caused by: java.net.ConnectException: Conexão recusada
 
  :: Spring Boot ::                (v3.3.5)
 
-2024-11-10T20:50:23.256-03:00  INFO 445044 --- [donativos] [    Test worker] c.g.backend.DonativosApplicationTests    : Starting DonativosApplicationTests using Java 23.0.1 with PID 445044 (started by nicolas in /home/nicolas/Documentos/n3backend)
+2024-11-10T20:50:23.256-03:00  INFO 445044 --- [donativos] [    Test worker] c.g.backend.DonativosApplicationTests    : Starting DonativosApplicationTests using Java 23.0.1 with PID 445044 (started by nicolas in /home/nicolas/Documentos/AjudaJaServer)
 2024-11-10T20:50:23.257-03:00  INFO 445044 --- [donativos] [    Test worker] c.g.backend.DonativosApplicationTests    : No active profile set, falling back to 1 default profile: "default"
 2024-11-10T20:50:23.576-03:00  INFO 445044 --- [donativos] [    Test worker] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
 2024-11-10T20:50:23.605-03:00  INFO 445044 --- [donativos] [    Test worker] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 25 ms. Found 1 JPA repository interface.
