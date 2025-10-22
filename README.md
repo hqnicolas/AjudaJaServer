@@ -1,4 +1,4 @@
-# N3 Gerenciador de Donativos
+# AjudaJa - Backend do Gerenciador de Donativos
 
 Manual de API: [Link](https://github.com/hqnicolas/AjudaJaServer/blob/main/MANUAL.md)
 
